@@ -1,3 +1,5 @@
+package poo_contador;
+
 public class Contador {
     int valorAtual = 0;
 
